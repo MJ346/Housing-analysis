@@ -19,5 +19,4 @@ Power BI
 
 Google BigQuery
 
-Access the Dashboard:
-View the Dashboard(https://app.powerbi.com/groups/me/reports/c73f5ff7-e695-45bc-9073-0c8704654d6b/55e4cd72338081859e98?experience=power-bi)
+[View the Dashboard](https://app.powerbi.com/groups/me/reports/c73f5ff7-e695-45bc-9073-0c8704654d6b/55e4cd72338081859e98?experience=power-bi)
